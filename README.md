@@ -17,3 +17,14 @@ The "Gradient Boosting Classifier, Gradient Boosting Regressor.ipynb" notebook d
 
 ### Support Vector Classifier
 The "Support Vector Classifier.ipynb" notebook demonstrates the use of support vector machines for classification tasks. It focuses on the Support Vector Classifier (SVC), which works by identifying the optimal hyperplane that maximizes the margin between different classes. The notebook also explores the use of kernel functions to capture non-linear relationships, showcasing how SVC can be adapted to handle complex datasets. Key steps such as data preprocessing, model training, hyperparameter tuning, and performance evaluation are covered to illustrate the practical application of SVC .
+
+
+### Gaussian Mixture, DBSCAN and K-means
+The "Gaussian Mixture, DBSCAN and K-means" notebook explores unsupervised clustering techniques using Gaussian Mixture Models, DBSCAN, and K-means. Gaussian Mixture Models offer a probabilistic approach by modeling the data as a mixture of several Gaussian distributions, allowing for soft assignments of data points to clusters. DBSCAN identifies clusters based on data density and is particularly effective at detecting outliers. Meanwhile, K-means clustering partitions data into a predetermined number of clusters by minimizing within-cluster variance. This notebook provides a hands-on demonstration of these methods, illustrating their applications in uncovering hidden structures within datasets .
+
+
+
+
+
+
+
